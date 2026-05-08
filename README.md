@@ -43,6 +43,12 @@
 📌 Technologies: Python, VS Code, Pandas, Matplotlib, Seaborn, Kaggle Dataset  
 📊 Performed exploratory data analysis and visualized sales performance trends to uncover actionable insights.
 
+## 📜 Certifications
+
+• 🎓 Master In Data Science & Analytics With Artificial Intelligence - NSDC  
+• 📊 Python for Data Science - IBM  
+• 💻 Analyzing and Visualizing Data with Microsoft Power BI - Itvedant  
+
 ## 📈 GitHub Stats
 
 <p align="center">
