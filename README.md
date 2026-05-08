@@ -43,6 +43,32 @@
 📌 Technologies: Python, VS Code, Pandas, Matplotlib, Seaborn, Kaggle Dataset  
 📊 Performed exploratory data analysis and visualized sales performance trends to uncover actionable insights.
 
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PradnilBirje&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/pradnilbirje24" target="_blank">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
+</a>
+
+<a href="https://github.com/PradnilBirje" target="_blank">
+<img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="45"/>
+</a>
+
+<a href="https://pradnilbirje.github.io/Portfolio/" target="_blank">
+<img src="https://img.icons8.com/color/48/domain.png" width="45"/>
+</a>
+
+<a href="mailto:pradnilbirje01@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
+</a>
+</p>
+
 <!---
 PradnilBirje/PradnilBirje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
