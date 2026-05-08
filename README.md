@@ -10,7 +10,7 @@
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
 </p>
 
-• 👋 Hi, I’m @Prdnil Birje  
+• 👋 Hi, I’m @Pradnil Birje  
 • 📊 Passionate about transforming raw data into actionable insights  
 • 🛠️ Skilled in Power BI, SQL, Python, Tableau, and Excel  
 • 📈 Interested in Business Intelligence, Data Visualization, and Analytics  
