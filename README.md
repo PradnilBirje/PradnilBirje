@@ -55,6 +55,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PradnilBirje&theme=tokyonight&hide_border=true"/>
 </p>
 
+## 📄 Resume
+
+📥 [Download My Resume](./Pradnil_Birje_Data_Analyst_resume.pdf)
+
 ## 🌐 Connect With Me
 
 <p align="left">
