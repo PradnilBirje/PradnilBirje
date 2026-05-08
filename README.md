@@ -10,6 +10,8 @@
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
 </p>
 
+## 📖 About Me
+
 • 👋 Hi, I’m @Pradnil Birje  
 • 📊 Passionate about transforming raw data into actionable insights  
 • 🛠️ Skilled in Power BI, SQL, Python, Tableau, and Excel  
@@ -18,6 +20,24 @@
 • 🌱 Continuously learning and improving in the tech & analytics field  
 • 📫 How to reach me www.linkedin.com/in/pradnilbirje24    
 • 😄 Pronouns: He/Him  
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Sales & Customer Analytics
+📌 Technologies: SQL, MySQL  
+📊 Analyzed customer behavior, sales trends, and business insights using SQL queries and relational database concepts.
+
+---
+
+### 📈 Product Sales Dashboard
+📌 Technologies: Power BI, Excel  
+📊 Interactive dashboard focused on product performance, sales KPIs, and business intelligence reporting.
+
+---
+
+### 💹 Sales Performance Analysis
+📌 Technologies: Python, VS Code, Pandas, Matplotlib, Seaborn, Kaggle Dataset  
+📊 Performed exploratory data analysis and visualized sales performance trends to uncover actionable insights.
 
 <!---
 PradnilBirje/PradnilBirje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
