@@ -33,6 +33,10 @@
 📌 Technologies: Power BI, Excel  
 📊 Interactive dashboard focused on product performance, sales KPIs, and business intelligence reporting.
 
+<img src="Contoso_Sales_Dashboard_Page_1.png" width="850"/>
+<img src="Contoso_Sales_Dashboard_Page_2.png" width="850"/>
+<img src="Contoso_Sales_Dashboard_Page_3.png" width="850"/>
+
 ---
 
 ### 💹 Sales Performance Analysis
