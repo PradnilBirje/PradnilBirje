@@ -1,4 +1,10 @@
-👋 Hello everyone, I’m Pradnil Birje
+<h1 align="center">Hi 👋, I'm Pradnil Birje</h1>
+<h3 align="center">Aspiring Data Analyst | Power BI • SQL • Python • Tableau</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Data+into+Meaningful+Insights;Power+BI+%7C+SQL+%7C+Python+%7C+Tableau;Business+Intelligence+%26+Data+Analytics;Mechanical+Engineer+turned+Data+Analyst" />
+</p>
+
 ## 🛠️ Tech Stack
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
