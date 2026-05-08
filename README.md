@@ -49,6 +49,13 @@
 • 📊 Python for Data Science - IBM  
 • 💻 Analyzing and Visualizing Data with Microsoft Power BI - Itvedant  
 
+## ✍️ Featured Blog
+
+### 📊 Data Analysis vs Data Analytics
+Understanding the key differences between Data Analysis and Data Analytics, including roles, processes, tools, and business impact.
+
+🔗 [Read the Blog](https://medium.com/data-and-beyond/data-analytics-vs-data-analysis-heres-what-i-have-learned-2e611f8060aa)
+
 ## 📈 GitHub Stats
 
 <p align="center">
