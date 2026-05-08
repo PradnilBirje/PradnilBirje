@@ -1,17 +1,23 @@
-- 👋 Hello everyone, I’m Pradnil Birje
-- 👀 I'm a **Data analyst** with a background in **Engineering** and a passion for transforming data into actionable insights.
-- My journey started as a **design engineer**, where managing large datasets sparked my interest in data science, and since then I've been dedicated to learning and applying advanced analytical methods.
-- I hold an **Master in Data Science & Analytics with Artificial Intelligence certificate** from I.T. Vedant, and I'm continuously expanding my skills in Advance Excel, SQL, Power BI, Tableau, Python and machine learning.
+👋 Hello everyone, I’m Pradnil Birje
+## 🛠️ Tech Stack
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
+</p>
 
-- 🌱 I’ve completed my post-graduate course which is Master in Data Science & Analytics with a focus on AI.
-- 💞️ I’m Eager to dive deeper into Data Analytics, Data Analysis, machine learning, data visualization, and big data technologies.
-- 📈 My Interests
-- Data analysis and visualization
-- Machine learning and AI applications
-- Building effective data workflows and solutions
-- 📫 How to reach me ... **[LinkedIn](www.linkedin.com/in/pradnilbirje24)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+• 👋 Hi, I’m @Prdnil Birje  
+• 📊 Passionate about transforming raw data into actionable insights  
+• 🛠️ Skilled in Power BI, SQL, Python, Tableau, and Excel  
+• 📈 Interested in Business Intelligence, Data Visualization, and Analytics  
+• 🚀 Currently building real-world analytics projects and dashboards  
+• 🌱 Continuously learning and improving in the tech & analytics field  
+• 📫 How to reach me www.linkedin.com/in/pradnilbirje24    
+• 😄 Pronouns: He/Him  
 
 <!---
 PradnilBirje/PradnilBirje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
