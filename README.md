@@ -101,6 +101,12 @@ Understanding the key differences between Data Analysis and Data Analytics, incl
 
 ⭐️ From [PradnilBirje](https://github.com/PradnilBirje)
 
+## 📊 Activity Overview
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PradnilBirje&theme=tokyonight"/>
+</p>
+
 ---
 
 📊 Turning Data into Meaningful Insights
