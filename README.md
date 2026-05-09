@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Github_Background_Photo.png" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Pradnil Birje</h1>
 <h3 align="center">Aspiring Data Analyst | Power BI • SQL • Python • Tableau</h3>
 
