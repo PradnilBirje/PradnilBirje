@@ -10,13 +10,23 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
-<img src="https://img.icons8.com/color/48/tableau-software.png" width="40"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,anaconda" />
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="48"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="48"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="48"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="48"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" height="48"/>
+
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="45"/>
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
 </p>
 
 ## 📖 About Me
