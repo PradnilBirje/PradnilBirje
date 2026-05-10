@@ -75,24 +75,13 @@ Understanding the key differences between Data Analysis and Data Analytics, incl
 
 📥 [Download My Resume](./Pradnil_Birje_Data_Analyst_resume.pdf)
 
-## 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/pradnilbirje24" target="_blank">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
-</a>
-
-<a href="https://github.com/PradnilBirje" target="_blank">
-<img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="45"/>
-</a>
-
-<a href="https://pradnilbirje.github.io/Portfolio/" target="_blank">
-<img src="https://img.icons8.com/color/48/domain.png" width="45"/>
-</a>
-
-<a href="mailto:pradnilbirje01@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
-</a>
+<a href="https://www.linkedin.com/in/pradnilbirje24/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+<a href="https://github.com/PradnilBirje" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+<a href="https://pradnilbirje.github.io/Portfolio/" target="_blank"><img src="https://img.icons8.com/fluency/48/domain.png" height="45"/></a>
+<a href="mailto:pradnilbirje01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
 
 ## 👀 Profile Visitors
