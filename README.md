@@ -48,7 +48,7 @@
 
 ---
 
-### 📈 Product Sales Dashboard
+### 📈 Contoso Sales Dashboard PowerBI
 📌 Technologies: Power BI, Excel  
 📊 Interactive dashboard focused on product performance, sales KPIs, and business intelligence reporting.
 
