@@ -62,6 +62,21 @@
 📌 Technologies: Python, VS Code, Pandas, Matplotlib, Seaborn, Kaggle Dataset  
 📊 Performed exploratory data analysis and visualized sales performance trends to uncover actionable insights.
 
+
+## 💼 Experience
+
+### 📊 Power BI Intern | CodTech
+- Built a Customer Churn Analysis Dashboard in Power BI, integrating Excel and MySQL data sources, tracking Churn Rate, Active Customers, and MRR in a unified model.
+- Developed a real-time streaming dashboard using Power BI Service + Python API to simulate live business performance monitoring.
+- Implemented a churn prediction model (Scikit-learn) using tenure, billing, and behavioral data, flagged 20–30% of customers as high churn risk, enabling proactive retention strategies.
+- Applied DAX measures, data transformation, and multi-source integration to deliver accurate, decision-ready insights for business stakeholders.
+
+### 🤖 Data Science Intern | Prodigy Infotech
+- Analyzed a 3GB+ traffic accident dataset (7.7M+ records) using Pandas and NumPy, identified accident hotspots, severity trends, and key risk factors via EDA and Folium heatmaps.
+- Built a Decision Tree Classifier to predict customer purchase behavior; tuned for optimized accuracy using Scikit-learn.
+- Conducted sentiment analysis on social media data using NLP (WordCloud, text preprocessing) to surface brand perception trends.
+- Delivered 5 data science projects covering EDA, ML, and visualization, demonstrating the ability to handle large-scale, real-world datasets independently.
+
 ## 📜 Certifications
 
 • 🎓 Master In Data Science & Analytics With Artificial Intelligence - NSDC  
