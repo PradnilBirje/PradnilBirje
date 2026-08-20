@@ -98,7 +98,15 @@ Understanding the key differences between Data Analysis and Data Analytics, incl
 
 ## 📄 Resume
 
-📥 [Download My Resume](./Pradnil_Birje_Data_Analyst_resume.pdf)
+<p align="center">
+  <a href="./resume/Pradnil_Birje_Data_analyst_resume.jpg">
+    <img src="./resume/Pradnil_Birje_Data_analyst_resume.jpg"
+         width="800"
+         alt="Pradnil Birje Data Analyst Resume"/>
+  </a>
+</p>
+
+📥 [Download My Resume](./resume/Pradnil_Birje_Data_analyst_resume.pdf)
 
 <h2>🌐 Connect With Me</h2>
 
